@@ -44,3 +44,5 @@ Future improvements could include better sensors, signal buffering, or frequency
 Project Links
 
 A detailed explanation and reflections are available on the Notion project page.
+
+https://www.notion.so/Nature-Sonification-2db9325d1ab1801eae36fe8f2971d58c?source=copy_link
